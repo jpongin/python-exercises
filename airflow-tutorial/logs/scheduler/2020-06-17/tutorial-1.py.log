@@ -1,0 +1,321 @@
+[2020-06-17 13:08:58,702] {scheduler_job.py:154} INFO - Started process (PID=34326) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:08:58,708] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:08:58,709] {logging_mixin.py:112} INFO - [2020-06-17 13:08:58,708] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:08:58,715] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:08:58,724] {logging_mixin.py:112} INFO - [2020-06-17 13:08:58,723] {dag.py:1501} INFO - Creating ORM DAG for tutorial-1
+[2020-06-17 13:08:58,734] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.031 seconds
+[2020-06-17 13:09:48,850] {scheduler_job.py:154} INFO - Started process (PID=34473) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:09:48,855] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:09:48,856] {logging_mixin.py:112} INFO - [2020-06-17 13:09:48,856] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:09:48,862] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:09:48,887] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.037 seconds
+[2020-06-17 13:10:39,023] {scheduler_job.py:154} INFO - Started process (PID=34618) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:10:39,029] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:10:39,030] {logging_mixin.py:112} INFO - [2020-06-17 13:10:39,030] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:10:39,036] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:10:39,062] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.038 seconds
+[2020-06-17 13:11:29,172] {scheduler_job.py:154} INFO - Started process (PID=34779) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:11:29,177] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:11:29,178] {logging_mixin.py:112} INFO - [2020-06-17 13:11:29,178] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:11:29,185] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:11:29,202] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.030 seconds
+[2020-06-17 13:12:19,326] {scheduler_job.py:154} INFO - Started process (PID=34933) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:12:19,332] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:12:19,333] {logging_mixin.py:112} INFO - [2020-06-17 13:12:19,333] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:12:19,339] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:12:19,365] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.039 seconds
+[2020-06-17 13:13:09,484] {scheduler_job.py:154} INFO - Started process (PID=35091) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:13:09,490] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:13:09,491] {logging_mixin.py:112} INFO - [2020-06-17 13:13:09,490] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:13:09,497] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:13:09,514] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.030 seconds
+[2020-06-17 13:13:59,641] {scheduler_job.py:154} INFO - Started process (PID=35240) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:13:59,647] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:13:59,648] {logging_mixin.py:112} INFO - [2020-06-17 13:13:59,647] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:13:59,654] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:13:59,686] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.046 seconds
+[2020-06-17 13:14:49,821] {scheduler_job.py:154} INFO - Started process (PID=35417) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:14:49,826] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:14:49,828] {logging_mixin.py:112} INFO - [2020-06-17 13:14:49,827] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:14:49,835] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:14:49,863] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.042 seconds
+[2020-06-17 13:15:39,973] {scheduler_job.py:154} INFO - Started process (PID=35598) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:15:40,068] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:15:40,069] {logging_mixin.py:112} INFO - [2020-06-17 13:15:40,069] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:15:40,074] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:15:40,101] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.127 seconds
+[2020-06-17 13:16:30,137] {scheduler_job.py:154} INFO - Started process (PID=35767) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:16:30,143] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:16:30,144] {logging_mixin.py:112} INFO - [2020-06-17 13:16:30,144] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:16:30,150] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:16:30,169] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.032 seconds
+[2020-06-17 13:17:20,291] {scheduler_job.py:154} INFO - Started process (PID=35878) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:17:20,296] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:17:20,297] {logging_mixin.py:112} INFO - [2020-06-17 13:17:20,297] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:17:20,303] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:17:20,332] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:18:10,462] {scheduler_job.py:154} INFO - Started process (PID=36127) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:18:10,468] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:18:10,468] {logging_mixin.py:112} INFO - [2020-06-17 13:18:10,468] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:18:10,473] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:18:10,492] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.030 seconds
+[2020-06-17 13:19:00,625] {scheduler_job.py:154} INFO - Started process (PID=36214) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:19:00,630] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:19:00,631] {logging_mixin.py:112} INFO - [2020-06-17 13:19:00,631] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:19:00,638] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:19:00,656] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.032 seconds
+[2020-06-17 13:19:50,782] {scheduler_job.py:154} INFO - Started process (PID=36374) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:19:50,788] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:19:50,789] {logging_mixin.py:112} INFO - [2020-06-17 13:19:50,789] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:19:50,796] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:19:50,824] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.042 seconds
+[2020-06-17 13:20:40,923] {scheduler_job.py:154} INFO - Started process (PID=36542) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:20:40,930] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:20:40,931] {logging_mixin.py:112} INFO - [2020-06-17 13:20:40,930] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:20:40,937] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:20:40,956] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.032 seconds
+[2020-06-17 13:21:31,084] {scheduler_job.py:154} INFO - Started process (PID=36715) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:21:31,090] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:21:31,091] {logging_mixin.py:112} INFO - [2020-06-17 13:21:31,090] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:21:31,097] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:21:31,127] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.043 seconds
+[2020-06-17 13:22:21,252] {scheduler_job.py:154} INFO - Started process (PID=36878) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:22:21,262] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:22:21,264] {logging_mixin.py:112} INFO - [2020-06-17 13:22:21,263] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:22:21,268] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:22:21,293] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:23:11,394] {scheduler_job.py:154} INFO - Started process (PID=37019) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:23:11,399] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:23:11,400] {logging_mixin.py:112} INFO - [2020-06-17 13:23:11,400] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:23:11,407] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:23:11,433] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.039 seconds
+[2020-06-17 13:24:01,559] {scheduler_job.py:154} INFO - Started process (PID=37119) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:24:01,565] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:24:01,566] {logging_mixin.py:112} INFO - [2020-06-17 13:24:01,566] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:24:01,572] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:24:01,588] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.029 seconds
+[2020-06-17 13:24:51,725] {scheduler_job.py:154} INFO - Started process (PID=38906) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:24:51,733] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:24:51,734] {logging_mixin.py:112} INFO - [2020-06-17 13:24:51,734] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:24:51,740] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:24:51,768] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.043 seconds
+[2020-06-17 13:25:41,890] {scheduler_job.py:154} INFO - Started process (PID=39041) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:25:41,896] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:25:41,897] {logging_mixin.py:112} INFO - [2020-06-17 13:25:41,897] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:25:41,903] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:25:41,932] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.042 seconds
+[2020-06-17 13:26:32,069] {scheduler_job.py:154} INFO - Started process (PID=39206) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:26:32,074] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:26:32,075] {logging_mixin.py:112} INFO - [2020-06-17 13:26:32,075] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:26:32,080] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:26:32,107] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.038 seconds
+[2020-06-17 13:27:22,246] {scheduler_job.py:154} INFO - Started process (PID=39354) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:27:22,251] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:27:22,252] {logging_mixin.py:112} INFO - [2020-06-17 13:27:22,252] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:27:22,258] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:27:22,285] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.040 seconds
+[2020-06-17 13:28:12,410] {scheduler_job.py:154} INFO - Started process (PID=39499) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:28:12,416] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:28:12,418] {logging_mixin.py:112} INFO - [2020-06-17 13:28:12,417] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:28:12,424] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:28:12,451] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.040 seconds
+[2020-06-17 13:29:02,585] {scheduler_job.py:154} INFO - Started process (PID=39601) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:29:02,590] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:29:02,591] {logging_mixin.py:112} INFO - [2020-06-17 13:29:02,591] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:29:02,598] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:29:02,615] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.030 seconds
+[2020-06-17 13:29:52,730] {scheduler_job.py:154} INFO - Started process (PID=39724) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:29:52,737] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:29:52,738] {logging_mixin.py:112} INFO - [2020-06-17 13:29:52,737] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:29:52,744] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:29:52,770] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.040 seconds
+[2020-06-17 13:30:42,903] {scheduler_job.py:154} INFO - Started process (PID=39847) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:30:42,909] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:30:42,910] {logging_mixin.py:112} INFO - [2020-06-17 13:30:42,910] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:30:42,916] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:30:42,944] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:31:33,070] {scheduler_job.py:154} INFO - Started process (PID=39997) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:31:33,075] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:31:33,076] {logging_mixin.py:112} INFO - [2020-06-17 13:31:33,076] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:31:33,082] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:31:33,109] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.040 seconds
+[2020-06-17 13:32:23,231] {scheduler_job.py:154} INFO - Started process (PID=40153) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:32:23,237] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:32:23,238] {logging_mixin.py:112} INFO - [2020-06-17 13:32:23,238] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:32:23,244] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:32:23,271] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.040 seconds
+[2020-06-17 13:33:13,356] {scheduler_job.py:154} INFO - Started process (PID=40319) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:33:13,361] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:33:13,363] {logging_mixin.py:112} INFO - [2020-06-17 13:33:13,362] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:33:13,369] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:33:13,396] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:34:03,485] {scheduler_job.py:154} INFO - Started process (PID=40421) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:34:03,490] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:34:03,492] {logging_mixin.py:112} INFO - [2020-06-17 13:34:03,491] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:34:03,497] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:34:03,513] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.028 seconds
+[2020-06-17 13:34:53,615] {scheduler_job.py:154} INFO - Started process (PID=40569) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:34:53,620] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:34:53,622] {logging_mixin.py:112} INFO - [2020-06-17 13:34:53,621] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:34:53,627] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:34:53,665] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.050 seconds
+[2020-06-17 13:35:43,729] {scheduler_job.py:154} INFO - Started process (PID=40695) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:35:43,735] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:35:43,736] {logging_mixin.py:112} INFO - [2020-06-17 13:35:43,736] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:35:43,742] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:35:43,769] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.040 seconds
+[2020-06-17 13:36:33,856] {scheduler_job.py:154} INFO - Started process (PID=40833) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:36:33,950] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:36:33,952] {logging_mixin.py:112} INFO - [2020-06-17 13:36:33,951] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:36:33,958] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:36:33,976] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.120 seconds
+[2020-06-17 13:37:23,981] {scheduler_job.py:154} INFO - Started process (PID=40984) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:37:23,986] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:37:23,987] {logging_mixin.py:112} INFO - [2020-06-17 13:37:23,987] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:37:23,993] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:37:24,020] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.039 seconds
+[2020-06-17 13:38:14,098] {scheduler_job.py:154} INFO - Started process (PID=41140) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:38:14,103] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:38:14,104] {logging_mixin.py:112} INFO - [2020-06-17 13:38:14,104] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:38:14,110] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:38:14,127] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.029 seconds
+[2020-06-17 13:39:04,209] {scheduler_job.py:154} INFO - Started process (PID=41260) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:39:04,215] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:39:04,216] {logging_mixin.py:112} INFO - [2020-06-17 13:39:04,216] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:39:04,222] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:39:04,247] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.039 seconds
+[2020-06-17 13:39:54,332] {scheduler_job.py:154} INFO - Started process (PID=41377) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:39:54,337] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:39:54,338] {logging_mixin.py:112} INFO - [2020-06-17 13:39:54,338] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:39:54,343] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:39:54,359] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.027 seconds
+[2020-06-17 13:40:44,582] {scheduler_job.py:154} INFO - Started process (PID=41504) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:40:44,587] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:40:44,588] {logging_mixin.py:112} INFO - [2020-06-17 13:40:44,588] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:40:44,594] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:40:44,612] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.030 seconds
+[2020-06-17 13:41:34,881] {scheduler_job.py:154} INFO - Started process (PID=41652) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:41:34,886] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:41:34,887] {logging_mixin.py:112} INFO - [2020-06-17 13:41:34,887] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:41:34,893] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:41:34,912] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.031 seconds
+[2020-06-17 13:42:25,200] {scheduler_job.py:154} INFO - Started process (PID=41796) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:42:25,205] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:42:25,206] {logging_mixin.py:112} INFO - [2020-06-17 13:42:25,206] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:42:25,212] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:42:25,238] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.038 seconds
+[2020-06-17 13:43:15,565] {scheduler_job.py:154} INFO - Started process (PID=41945) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:43:15,570] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:43:15,571] {logging_mixin.py:112} INFO - [2020-06-17 13:43:15,571] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:43:15,578] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:43:15,596] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.031 seconds
+[2020-06-17 13:44:05,883] {scheduler_job.py:154} INFO - Started process (PID=42029) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:44:05,889] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:44:05,890] {logging_mixin.py:112} INFO - [2020-06-17 13:44:05,890] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:44:05,896] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:44:05,914] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.031 seconds
+[2020-06-17 13:44:56,105] {scheduler_job.py:154} INFO - Started process (PID=42165) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:44:56,110] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:44:56,111] {logging_mixin.py:112} INFO - [2020-06-17 13:44:56,111] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:44:56,116] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:44:56,143] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.037 seconds
+[2020-06-17 13:45:46,243] {scheduler_job.py:154} INFO - Started process (PID=42306) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:45:46,248] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:45:46,249] {logging_mixin.py:112} INFO - [2020-06-17 13:45:46,248] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:45:46,254] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:45:46,282] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.039 seconds
+[2020-06-17 13:46:36,371] {scheduler_job.py:154} INFO - Started process (PID=42441) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:46:36,376] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:46:36,377] {logging_mixin.py:112} INFO - [2020-06-17 13:46:36,377] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:46:36,385] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:46:36,403] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.032 seconds
+[2020-06-17 13:47:26,510] {scheduler_job.py:154} INFO - Started process (PID=42600) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:47:26,515] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:47:26,516] {logging_mixin.py:112} INFO - [2020-06-17 13:47:26,516] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:47:26,522] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:47:26,548] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.038 seconds
+[2020-06-17 13:48:16,626] {scheduler_job.py:154} INFO - Started process (PID=42743) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:48:16,631] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:48:16,632] {logging_mixin.py:112} INFO - [2020-06-17 13:48:16,631] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:48:16,638] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:48:16,656] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.031 seconds
+[2020-06-17 13:49:06,751] {scheduler_job.py:154} INFO - Started process (PID=42873) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:49:06,756] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:49:06,757] {logging_mixin.py:112} INFO - [2020-06-17 13:49:06,757] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:49:06,762] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:49:06,778] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.028 seconds
+[2020-06-17 13:49:56,875] {scheduler_job.py:154} INFO - Started process (PID=42964) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:49:56,879] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:49:56,880] {logging_mixin.py:112} INFO - [2020-06-17 13:49:56,880] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:49:56,886] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:49:56,912] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.038 seconds
+[2020-06-17 13:50:46,999] {scheduler_job.py:154} INFO - Started process (PID=43077) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:50:47,004] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:50:47,005] {logging_mixin.py:112} INFO - [2020-06-17 13:50:47,005] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:50:47,012] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:50:47,040] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:51:37,146] {scheduler_job.py:154} INFO - Started process (PID=43234) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:51:37,152] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:51:37,153] {logging_mixin.py:112} INFO - [2020-06-17 13:51:37,153] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:51:37,160] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:51:37,188] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:52:27,290] {scheduler_job.py:154} INFO - Started process (PID=43395) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:52:27,296] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:52:27,297] {logging_mixin.py:112} INFO - [2020-06-17 13:52:27,296] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:52:27,303] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:52:27,330] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:53:17,417] {scheduler_job.py:154} INFO - Started process (PID=43539) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:53:17,422] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:53:17,423] {logging_mixin.py:112} INFO - [2020-06-17 13:53:17,422] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:53:17,429] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:53:17,455] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.038 seconds
+[2020-06-17 13:54:07,544] {scheduler_job.py:154} INFO - Started process (PID=43685) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:54:07,550] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:54:07,551] {logging_mixin.py:112} INFO - [2020-06-17 13:54:07,551] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:54:07,557] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:54:07,585] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:54:57,680] {scheduler_job.py:154} INFO - Started process (PID=43771) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:54:57,686] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:54:57,687] {logging_mixin.py:112} INFO - [2020-06-17 13:54:57,687] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:54:57,693] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:54:57,721] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:55:47,823] {scheduler_job.py:154} INFO - Started process (PID=43929) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:55:47,829] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:55:47,830] {logging_mixin.py:112} INFO - [2020-06-17 13:55:47,829] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:55:47,836] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:55:47,855] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.031 seconds
+[2020-06-17 13:56:37,971] {scheduler_job.py:154} INFO - Started process (PID=44055) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:56:37,977] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:56:37,978] {logging_mixin.py:112} INFO - [2020-06-17 13:56:37,978] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:56:37,985] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:56:38,003] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.032 seconds
+[2020-06-17 13:57:28,120] {scheduler_job.py:154} INFO - Started process (PID=44214) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:57:28,126] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:57:28,127] {logging_mixin.py:112} INFO - [2020-06-17 13:57:28,127] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:57:28,134] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:57:28,161] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 13:58:18,259] {scheduler_job.py:154} INFO - Started process (PID=44356) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:58:18,263] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:58:18,265] {logging_mixin.py:112} INFO - [2020-06-17 13:58:18,264] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:58:18,270] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:58:18,295] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.036 seconds
+[2020-06-17 13:59:08,377] {scheduler_job.py:154} INFO - Started process (PID=44513) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:59:08,382] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:59:08,383] {logging_mixin.py:112} INFO - [2020-06-17 13:59:08,383] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:59:08,389] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:59:08,416] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.040 seconds
+[2020-06-17 13:59:58,496] {scheduler_job.py:154} INFO - Started process (PID=44644) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:59:58,502] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 13:59:58,503] {logging_mixin.py:112} INFO - [2020-06-17 13:59:58,503] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:59:58,510] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 13:59:58,537] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.040 seconds
+[2020-06-17 14:00:48,636] {scheduler_job.py:154} INFO - Started process (PID=44799) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 14:00:48,642] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 14:00:48,643] {logging_mixin.py:112} INFO - [2020-06-17 14:00:48,643] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 14:00:48,650] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 14:00:48,677] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.041 seconds
+[2020-06-17 14:01:38,752] {scheduler_job.py:154} INFO - Started process (PID=44948) to work on /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 14:01:38,757] {scheduler_job.py:1562} INFO - Processing file /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py for tasks to queue
+[2020-06-17 14:01:38,758] {logging_mixin.py:112} INFO - [2020-06-17 14:01:38,758] {dagbag.py:396} INFO - Filling up the DagBag from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 14:01:38,764] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['tutorial-1']) retrieved from /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py
+[2020-06-17 14:01:38,790] {scheduler_job.py:162} INFO - Processing /Volumes/workspace/sandbox/python-exercises/airflow-tutorial/dags/tutorial-1.py took 0.038 seconds

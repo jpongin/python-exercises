@@ -1,0 +1,54 @@
+[2020-06-17 12:54:23,244] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: tutorial-1.templated 2015-06-06T00:00:00+00:00 [queued]>
+[2020-06-17 12:54:23,253] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: tutorial-1.templated 2015-06-06T00:00:00+00:00 [queued]>
+[2020-06-17 12:54:23,253] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 12:54:23,253] {taskinstance.py:880} INFO - Starting attempt 1 of 2
+[2020-06-17 12:54:23,253] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-17 12:54:23,292] {taskinstance.py:900} INFO - Executing <Task(BashOperator): templated> on 2015-06-06T00:00:00+00:00
+[2020-06-17 12:54:23,294] {standard_task_runner.py:53} INFO - Started process 31476 to run task
+[2020-06-17 12:54:23,380] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: tutorial-1.templated 2015-06-06T00:00:00+00:00 [running]> ip-10-8-0-10.ec2.internal
+[2020-06-17 12:54:23,407] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /var/folders/g3/k1xcc11121ng570d4_r9qdwc0000gn/T
+[2020-06-17 12:54:23,409] {bash_operator.py:105} INFO - Temporary script location: /var/folders/g3/k1xcc11121ng570d4_r9qdwc0000gn/T/airflowtmp_t662sjv/templatedl7vxwel9
+[2020-06-17 12:54:23,410] {bash_operator.py:115} INFO - Running command: 
+
+  echo "2015-06-06"
+  echo "2015-06-13"
+  echo "Parameter I passed in"
+
+  echo "2015-06-06"
+  echo "2015-06-13"
+  echo "Parameter I passed in"
+
+  echo "2015-06-06"
+  echo "2015-06-13"
+  echo "Parameter I passed in"
+
+  echo "2015-06-06"
+  echo "2015-06-13"
+  echo "Parameter I passed in"
+
+  echo "2015-06-06"
+  echo "2015-06-13"
+  echo "Parameter I passed in"
+
+[2020-06-17 12:54:23,417] {bash_operator.py:122} INFO - Output:
+[2020-06-17 12:54:23,420] {bash_operator.py:126} INFO - 2015-06-06
+[2020-06-17 12:54:23,421] {bash_operator.py:126} INFO - 2015-06-13
+[2020-06-17 12:54:23,421] {bash_operator.py:126} INFO - Parameter I passed in
+[2020-06-17 12:54:23,421] {bash_operator.py:126} INFO - 2015-06-06
+[2020-06-17 12:54:23,421] {bash_operator.py:126} INFO - 2015-06-13
+[2020-06-17 12:54:23,422] {bash_operator.py:126} INFO - Parameter I passed in
+[2020-06-17 12:54:23,422] {bash_operator.py:126} INFO - 2015-06-06
+[2020-06-17 12:54:23,422] {bash_operator.py:126} INFO - 2015-06-13
+[2020-06-17 12:54:23,423] {bash_operator.py:126} INFO - Parameter I passed in
+[2020-06-17 12:54:23,423] {bash_operator.py:126} INFO - 2015-06-06
+[2020-06-17 12:54:23,423] {bash_operator.py:126} INFO - 2015-06-13
+[2020-06-17 12:54:23,423] {bash_operator.py:126} INFO - Parameter I passed in
+[2020-06-17 12:54:23,424] {bash_operator.py:126} INFO - 2015-06-06
+[2020-06-17 12:54:23,424] {bash_operator.py:126} INFO - 2015-06-13
+[2020-06-17 12:54:23,424] {bash_operator.py:126} INFO - Parameter I passed in
+[2020-06-17 12:54:23,425] {bash_operator.py:130} INFO - Command exited with return code 0
+[2020-06-17 12:54:23,431] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=tutorial-1, task_id=templated, execution_date=20150606T000000, start_date=20200617T195423, end_date=20200617T195423
+[2020-06-17 12:54:33,209] {logging_mixin.py:112} INFO - [2020-06-17 12:54:33,208] {local_task_job.py:103} INFO - Task exited with return code 0
